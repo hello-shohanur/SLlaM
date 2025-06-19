@@ -60,7 +60,7 @@ sllam/
 ├── README.md        # This file
 ```
 
-*Note: The **``** file (saved model weights) will be created after training is completed.*
+*Note: The **sllam.pth** file (saved model weights) will be created after training is completed.*
 
 ---
 
