@@ -105,12 +105,6 @@ You can easily change:
 
 ---
 
-## 📄 License
-
-This project is MIT licensed. Feel free to use, modify, and share.
-
----
-
 ## 🙏 Acknowledgements
 
 - Inspired by nanoGPT and GPT architecture
@@ -130,6 +124,7 @@ This project is MIT licensed. Feel free to use, modify, and share.
 ## 🔗 Connect
 
 Questions? Suggestions? Open an issue or reach out!
+- Email: hello.msrahman@outlook.com
 
 ---
 
